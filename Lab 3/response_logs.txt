@@ -1,0 +1,58 @@
+
+--- Event: 2026-02-21 22:03:35 | Kumasi | Mag: 5.5 ---
+  Goal: Dispatch Medical Teams | Action: Send medical teams and emergency supplies
+  Goal: Monitor Aftershocks | Action: Deploy aftershock monitoring sensors
+  Goal: Issue Public Advisory | Action: Broadcast public safety advisory and instructions
+
+--- Event: 2026-02-21 22:03:40 | Accra | Mag: 5.8 ---
+  Goal: Dispatch Medical Teams | Action: Send medical teams and emergency supplies
+  Goal: Monitor Aftershocks | Action: Deploy aftershock monitoring sensors
+  Goal: Issue Public Advisory | Action: Broadcast public safety advisory and instructions
+
+--- Event: 2026-02-21 22:03:45 | Ho | Mag: 6.7 ---
+  Goal: Deploy Search and Rescue | Action: Dispatch search and rescue teams to epicenter
+  Goal: Dispatch Medical Teams | Action: Send medical teams and emergency supplies
+  Goal: Monitor Aftershocks | Action: Deploy aftershock monitoring sensors
+  Goal: Issue Public Advisory | Action: Broadcast public safety advisory and instructions
+
+--- Event: 2026-02-21 22:03:50 | Accra | Mag: 6.8 ---
+  Goal: Deploy Search and Rescue | Action: Dispatch search and rescue teams to epicenter
+  Goal: Dispatch Medical Teams | Action: Send medical teams and emergency supplies
+  Goal: Monitor Aftershocks | Action: Deploy aftershock monitoring sensors
+  Goal: Issue Public Advisory | Action: Broadcast public safety advisory and instructions
+
+--- Event: 2026-02-21 22:04:00 | Wa | Mag: 5.2 ---
+  Goal: Dispatch Medical Teams | Action: Send medical teams and emergency supplies
+  Goal: Monitor Aftershocks | Action: Deploy aftershock monitoring sensors
+  Goal: Issue Public Advisory | Action: Broadcast public safety advisory and instructions
+
+--- Event: 2026-02-21 22:04:05 | Cape Coast | Mag: 6.9 ---
+  Goal: Deploy Search and Rescue | Action: Dispatch search and rescue teams to epicenter
+  Goal: Dispatch Medical Teams | Action: Send medical teams and emergency supplies
+  Goal: Monitor Aftershocks | Action: Deploy aftershock monitoring sensors
+  Goal: Issue Public Advisory | Action: Broadcast public safety advisory and instructions
+
+--- Event: 2026-02-21 22:04:10 | Koforidua | Mag: 8.7 ---
+  Goal: Evacuate Population | Action: Trigger immediate mass evacuation of affected zones
+  Goal: Deploy Search and Rescue | Action: Dispatch search and rescue teams to epicenter
+  Goal: Dispatch Medical Teams | Action: Send medical teams and emergency supplies
+  Goal: Monitor Aftershocks | Action: Deploy aftershock monitoring sensors
+  Goal: Issue Public Advisory | Action: Broadcast public safety advisory and instructions
+
+--- Event: 2026-02-21 22:04:20 | Bolgatanga | Mag: 6.0 ---
+  Goal: Deploy Search and Rescue | Action: Dispatch search and rescue teams to epicenter
+  Goal: Dispatch Medical Teams | Action: Send medical teams and emergency supplies
+  Goal: Monitor Aftershocks | Action: Deploy aftershock monitoring sensors
+  Goal: Issue Public Advisory | Action: Broadcast public safety advisory and instructions
+
+--- Event: 2026-02-21 22:04:25 | Ho | Mag: 5.3 ---
+  Goal: Dispatch Medical Teams | Action: Send medical teams and emergency supplies
+  Goal: Monitor Aftershocks | Action: Deploy aftershock monitoring sensors
+  Goal: Issue Public Advisory | Action: Broadcast public safety advisory and instructions
+
+--- Event: 2026-02-21 22:04:30 | Wa | Mag: 7.5 ---
+  Goal: Evacuate Population | Action: Trigger immediate mass evacuation of affected zones
+  Goal: Deploy Search and Rescue | Action: Dispatch search and rescue teams to epicenter
+  Goal: Dispatch Medical Teams | Action: Send medical teams and emergency supplies
+  Goal: Monitor Aftershocks | Action: Deploy aftershock monitoring sensors
+  Goal: Issue Public Advisory | Action: Broadcast public safety advisory and instructions

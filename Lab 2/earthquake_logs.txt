@@ -1,0 +1,6 @@
+2026-02-21 21:44:32 | Location: Bolgatanga | Magnitude: 2.1 ML | Severity: Minor (Felt slightly) | Depth: 18.5 km | Fault: Coastal Fault | Aftershocks: Low | Tsunami Risk: Low
+2026-02-21 21:44:37 | Location: Koforidua | Magnitude: 1.6 ML | Severity: Micro (Not felt) | Depth: 222.3 km | Fault: Coastal Fault | Aftershocks: Low | Tsunami Risk: Low
+2026-02-21 21:44:42 | Location: Sunyani | Magnitude: 3.5 ML | Severity: Minor (Felt slightly) | Depth: 34.7 km | Fault: Northern Fault Zone | Aftershocks: Low | Tsunami Risk: Low
+2026-02-21 21:44:47 | Location: Takoradi | Magnitude: 2.9 ML | Severity: Minor (Felt slightly) | Depth: 424.7 km | Fault: Coastal Fault | Aftershocks: Low | Tsunami Risk: Low
+2026-02-21 21:44:52 | Location: Kumasi | Magnitude: 2.2 ML | Severity: Minor (Felt slightly) | Depth: 52.5 km | Fault: Northern Fault Zone | Aftershocks: Low | Tsunami Risk: Low
+2026-02-21 21:44:57 | Location: Sunyani | Magnitude: 3.1 ML | Severity: Minor (Felt slightly) | Depth: 101.4 km | Fault: Northern Fault Zone | Aftershocks: Low | Tsunami Risk: Low
